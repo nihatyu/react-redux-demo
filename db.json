@@ -1,0 +1,135 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "categoryName": "Beverages",
+      "seoUrl": "beverages"
+    },
+    {
+      "id": 2,
+      "categoryId": 2,
+      "categoryName": "Condiments",
+      "seoUrl": "condiments"
+    },
+    {
+      "id": 3,
+      "categoryId": 3,
+      "categoryName": "Confections",
+      "seoUrl": "confections"
+    }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "productName": "Chai",
+      "quantityPerUnit": "48 - 6 oz jars",
+      "unitPrice": 23,
+      "unitsInStock": 53
+    },
+    {
+      "id": 2,
+      "categoryId": 2,
+      "productName": "Chang",
+      "quantityPerUnit": "24 - 12 oz bottles",
+      "unitPrice": 23,
+      "unitsInStock": 53
+    },
+    {
+      "id": 3,
+      "categoryId": 3,
+      "productName": "Chef",
+      "quantityPerUnit": "14 - 2 oz mix",
+      "unitPrice": 23,
+      "unitsInStock": 53
+    },
+    {
+      "id": 4,
+      "categoryId": 3,
+      "productName": "Anton",
+      "quantityPerUnit": "53 - 13 oz spread",
+      "unitPrice": 23,
+      "unitsInStock": 53
+    },
+    {
+      "id": 5,
+      "categoryId": 1,
+      "productName": "Chai",
+      "quantityPerUnit": "48 - 6 oz jars",
+      "unitPrice": 23,
+      "unitsInStock": 53
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "productName": "Chang",
+      "quantityPerUnit": "24 - 12 oz bottles",
+      "unitPrice": 23,
+      "unitsInStock": 53
+    },
+    {
+      "id": 7,
+      "categoryId": 3,
+      "productName": "Chef",
+      "quantityPerUnit": "14 - 2 oz mix",
+      "unitPrice": 23,
+      "unitsInStock": 53
+    },
+    {
+      "id": 8,
+      "categoryId": 3,
+      "productName": "Anton",
+      "quantityPerUnit": "53 - 13 oz spread",
+      "unitPrice": 23,
+      "unitsInStock": 53
+    },
+    {
+      "id": 9,
+      "categoryId": 1,
+      "productName": "Chai",
+      "quantityPerUnit": "48 - 6 oz jars",
+      "unitPrice": 23,
+      "unitsInStock": 53
+    },
+    {
+      "id": 10,
+      "categoryId": 2,
+      "productName": "Chang",
+      "quantityPerUnit": "24 - 12 oz bottles",
+      "unitPrice": 23,
+      "unitsInStock": 53
+    },
+    {
+      "id": 11,
+      "categoryId": 3,
+      "productName": "Chef",
+      "quantityPerUnit": "14 - 2 oz mix",
+      "unitPrice": 23,
+      "unitsInStock": 53
+    },
+    {
+      "id": 12,
+      "categoryId": 3,
+      "productName": "Anton",
+      "quantityPerUnit": "53 - 13 oz spread",
+      "unitPrice": 23,
+      "unitsInStock": 53
+    }
+  ],
+
+  "cart": [
+    {
+      "product": {
+        "id": 12,
+        "categoryId": 3,
+        "productName": "Anton",
+        "quantityPerUnit": "53 - 13 oz spread",
+        "unitPrice": 23,
+        "unitsInStock": 53
+      },
+      "quantity": 1
+    }
+  ]
+}
