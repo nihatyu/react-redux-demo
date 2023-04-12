@@ -56,7 +56,7 @@
     {
       "id": 5,
       "categoryId": 1,
-      "productName": "Chai",
+      "productName": "Bogace",
       "quantityPerUnit": "48 - 6 oz jars",
       "unitPrice": 23,
       "unitsInStock": 53
@@ -64,7 +64,7 @@
     {
       "id": 6,
       "categoryId": 2,
-      "productName": "Chang",
+      "productName": "Nexus",
       "quantityPerUnit": "24 - 12 oz bottles",
       "unitPrice": 23,
       "unitsInStock": 53
@@ -72,7 +72,7 @@
     {
       "id": 7,
       "categoryId": 3,
-      "productName": "Chef",
+      "productName": "Mümkün",
       "quantityPerUnit": "14 - 2 oz mix",
       "unitPrice": 23,
       "unitsInStock": 53
@@ -80,7 +80,7 @@
     {
       "id": 8,
       "categoryId": 3,
-      "productName": "Anton",
+      "productName": "Lavrov",
       "quantityPerUnit": "53 - 13 oz spread",
       "unitPrice": 23,
       "unitsInStock": 53
@@ -88,7 +88,7 @@
     {
       "id": 9,
       "categoryId": 1,
-      "productName": "Chai",
+      "productName": "Petersburg",
       "quantityPerUnit": "48 - 6 oz jars",
       "unitPrice": 23,
       "unitsInStock": 53
@@ -96,7 +96,7 @@
     {
       "id": 10,
       "categoryId": 2,
-      "productName": "Chang",
+      "productName": "İstanbul",
       "quantityPerUnit": "24 - 12 oz bottles",
       "unitPrice": 23,
       "unitsInStock": 53
@@ -104,7 +104,7 @@
     {
       "id": 11,
       "categoryId": 3,
-      "productName": "Chef",
+      "productName": "Konya",
       "quantityPerUnit": "14 - 2 oz mix",
       "unitPrice": 23,
       "unitsInStock": 53
@@ -112,7 +112,7 @@
     {
       "id": 12,
       "categoryId": 3,
-      "productName": "Anton",
+      "productName": "Pizza",
       "quantityPerUnit": "53 - 13 oz spread",
       "unitPrice": 23,
       "unitsInStock": 53
